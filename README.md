@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- README de perfil: crear un repo PÚBLICO llamado exactamente "MarcSanchezUX" y pegar este archivo como README.md -->
 
-<!--
-**MarcSanchezUX/MarcSanchezUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Marcos Sánchez 👋
 
-Here are some ideas to get you started:
+**Junior Data Analyst** · Toluca, Mexico · Open to remote roles (US / LATAM) and on-site/hybrid in Mexico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently completed the **TripleTen Data Analyst Bootcamp** (May – Nov 2026), where I worked through hands-on projects cleaning, analyzing and visualizing real-world-style business data. I enjoy turning messy datasets into clear answers that help teams make decisions.
+
+<!-- Si vienes de UX/diseño, agrega aquí 1 línea, p. ej.:
+My background in UX helps me focus on the people behind the data and communicate findings clearly. -->
+
+---
+
+### 🛠️ Tools
+
+| Area | Tools |
+|---|---|
+| Data querying | SQL |
+| Analysis & cleaning | Python · pandas · Jupyter Notebook · Google Colab |
+| Spreadsheets | Excel |
+| BI & visualization | Power BI · Tableau |
+
+---
+
+### 📂 Featured projects
+
+| Project | What I did | Tools |
+|---|---|---|
+| [EverPeak Retail Analysis](https://github.com/MarcSanchezUX/analysis-everpick) | Built a reproducible cleaning pipeline for 2,000 retail orders with missing values, sentinel values and outliers; explored distributions and outliers to deliver insights for the strategy team. | Python · pandas · Jupyter |
+| [Telecom Analysis](https://github.com/MarcSanchezUX/telecom-analysis) | _[Pendiente: 1 línea con el objetivo y el hallazgo principal]_ | _[Pendiente]_ |
+
+<!-- Agrega aquí más proyectos (SQL, Power BI, Tableau) conforme los publiques. Ideal: 3–5 proyectos. -->
+
+---
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Sánchez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-sanchez-moreno/)
+
+🇲🇽 _También disponible en español — busco mi primer rol en análisis de datos._
