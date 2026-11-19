@@ -6,8 +6,7 @@
 
 I recently completed the **TripleTen Data Analyst Bootcamp** (May – Nov 2026), where I worked through hands-on projects cleaning, analyzing and visualizing real-world-style business data. I enjoy turning messy datasets into clear answers that help teams make decisions.
 
-<!-- Si vienes de UX/diseño, agrega aquí 1 línea, p. ej.:
-My background in UX helps me focus on the people behind the data and communicate findings clearly. -->
+My background in UX helps me focus on the people behind the data and communicate findings clearly.
 
 ---
 
@@ -27,7 +26,6 @@ My background in UX helps me focus on the people behind the data and communicate
 | Project | What I did | Tools |
 |---|---|---|
 | [EverPeak Retail Analysis](https://github.com/MarcSanchezUX/analysis-everpick) | Built a reproducible cleaning pipeline for 2,000 retail orders with missing values, sentinel values and outliers; explored distributions and outliers to deliver insights for the strategy team. | Python · pandas · Jupyter |
-| [Telecom Analysis](https://github.com/MarcSanchezUX/telecom-analysis) | _[Pendiente: 1 línea con el objetivo y el hallazgo principal]_ | _[Pendiente]_ |
 
 <!-- Agrega aquí más proyectos (SQL, Power BI, Tableau) conforme los publiques. Ideal: 3–5 proyectos. -->
 
